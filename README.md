@@ -1,2 +1,2 @@
 # My-Todolist
-this is a simple todolist apps for andorid
+this is the todolist application for adroid using the SQlite database
